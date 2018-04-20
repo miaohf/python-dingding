@@ -2,4 +2,5 @@
 CORP_ID = '',
 CORP_SECRET = '',
 BASE_URL = 'https://oapi.dingtalk.com/'
+# 企业应用的agent id
 AGENT_ID = ''
